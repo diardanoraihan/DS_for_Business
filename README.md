@@ -1,5 +1,5 @@
 # Data Science for Business: 6 Real-World Case Studies
-__Personal Data Science Capstone Projects__
+__Personal Data Science Capstone Projects__ (in progress)
 
 Build AI and Deep Learning Models to solve real-world business problems in HR, Marketing, Sales, Operations, PR, and Production projects.
 - Author: Diardano Raihan
@@ -24,19 +24,19 @@ This repository is targeted to those who want to gain a fundamental understandin
 - Aspiring Data Scientist and Tech Enthusiasts.
 
 ### Human Resource Department
-Imagine we need to deal with lots of real-world clothes images and your responsibility is to create an automated image classifier for an e-commerce company. As a result, the challenge is not only to build a robust deep learning model, but also to deploy it as a serverless app. We can combine the AWS Lambda and API Gateway for hosting this serverless APIs.
-
+<<Project Description>>
+  
 ### Marketing Department
-Imagine we need to deal with lots of real-world clothes images and your responsibility is to create an automated image classifier for an e-commerce company. As a result, the challenge is not only to build a robust deep learning model, but also to deploy it as a serverless app. We can combine the AWS Lambda and API Gateway for hosting this serverless APIs.
+<<Project Description>>
 
 ### Sales Department
-Imagine we need to deal with lots of real-world clothes images and your responsibility is to create an automated image classifier for an e-commerce company. As a result, the challenge is not only to build a robust deep learning model, but also to deploy it as a serverless app. We can combine the AWS Lambda and API Gateway for hosting this serverless APIs.
+<<Project Description>>
 
 ### Operations Department
-Imagine we need to deal with lots of real-world clothes images and your responsibility is to create an automated image classifier for an e-commerce company. As a result, the challenge is not only to build a robust deep learning model, but also to deploy it as a serverless app. We can combine the AWS Lambda and API Gateway for hosting this serverless APIs.
+<<Project Description>>
 
 ### Public Relations Department
-Imagine we need to deal with lots of real-world clothes images and your responsibility is to create an automated image classifier for an e-commerce company. As a result, the challenge is not only to build a robust deep learning model, but also to deploy it as a serverless app. We can combine the AWS Lambda and API Gateway for hosting this serverless APIs.
+<<Project Description>>
 
 ### Production/Manufacturing/Maintenance Department
-Imagine we need to deal with lots of real-world clothes images and your responsibility is to create an automated image classifier for an e-commerce company. As a result, the challenge is not only to build a robust deep learning model, but also to deploy it as a serverless app. We can combine the AWS Lambda and API Gateway for hosting this serverless APIs.
+<<Project Description>>
