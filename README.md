@@ -7,7 +7,9 @@ Build AI and Deep Learning Models to solve real-world business problems in HR, M
 - Social Media: [LinkedIn](https://www.linkedin.com/in/diardanoraihan/), [Medium](https://diardano.medium.com/)
 
 ## Project Summary
-Data science is a science of extracting useful information from a large, structured or unstructured amount of data to help business (company) solve problems. The practice includes data collection, data cleaning, data analysis and visualization, and machine learning modeling. In this project, we will show you how to leverage data science skills to maximize business revenue, reduce cost, and optimize businesses process. We will apply data science techniques to the following 6 departments:
+Data science is a science of extracting useful information from a large, structured or unstructured amount of data to help business (company) solve problems. The practice includes data collection, data cleaning, data analysis and visualization, and machine learning modeling. 
+
+In this project, we will learn how to leverage data science skills to maximize business revenue, reduce cost, and optimize businesses process. We will apply data science techniques to the following 6 departments:
 (1) Human Resources, 
 (2) Marketing, 
 (3) Sales, 
