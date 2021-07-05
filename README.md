@@ -1,5 +1,6 @@
-# Data Science for Business: 6 Real-world Case Studies
+# Data Science for Business: 6 Real-World Case Studies
 __Personal Data Science Capstone Projects__
+
 Build AI and Deep Learning Models to solve real-world business problems in Sales, Marketing, Operations, HR, PR, and Production projects.
 - Author: Diardano Raihan
 - Email: diardano@gmail.com
