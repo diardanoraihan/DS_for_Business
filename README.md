@@ -10,15 +10,20 @@ Build AI, Machine Learning, and Deep Learning Models to solve real-world busines
 Data science is a science of extracting useful information from a large, structured or unstructured amount of data to help business (company) solve problems. The practice includes data collection, data cleaning, data analysis and visualization, and machine learning modeling. 
 
 In this project, we will learn how to leverage data science skills to maximize business revenue, reduce cost, and optimize businesses process. We will apply data science techniques to the following 6 departments:
-- __Human Resources__: Build machine learning models to predict employee retention that could save the company hundreds of thousands of dollars.
+- __Human Resources__: Build machine learning models to predict employee retention that could save the company hundreds of thousands of dollars. See the project [here](https://github.com/diardanoraihan/DS_for_Business/tree/main/Human%20Resources%20Department)
 - __Marketing__: _Coming soon_
 - __Sales__: _Coming soon_
-- __Operations__: 
+- __Operations__: _Coming soon_
 - __Public Relations__: _Coming soon_
 - __Production/Maintenance__: _Coming soon_
 
-__Target Audience__:
+### Target Audience
 This repository is targeted to those who want to gain a fundamental understanding of data science and solve real-world business problems, including:
 - Data Science Consultants,
 - AI Practitioners,
 - Aspiring Data Scientist and Tech Enthusiasts.
+
+Thank you,
+
+
+Diardano Raihan
