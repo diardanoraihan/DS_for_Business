@@ -1,21 +1,13 @@
-# Data Science for Business: 6 Real-World Case Studies
-__Personal Data Science Capstone Projects__
+# Human Resource Retention
+__Personal Data Science for Business Capstone__
 
-Build AI, Machine Learning, and Deep Learning Models to solve real-world business problems in HR, Marketing, Sales, Operations, PR, and Production projects.
+Build machine learning models to predict employee retention that could save a company hundreds of thousands of dollars.
 - Author: Diardano Raihan
 - Email: diardano@gmail.com
 - Social Media: [LinkedIn](https://www.linkedin.com/in/diardanoraihan/), [Medium](https://diardano.medium.com/)
 
 ## Project Summary
-Data science is a science of extracting useful information from a large, structured or unstructured amount of data to help business (company) solve problems. The practice includes data collection, data cleaning, data analysis and visualization, and machine learning modeling. 
-
-In this project, we will learn how to leverage data science skills to maximize business revenue, reduce cost, and optimize businesses process. We will apply data science techniques to the following 6 departments:
-(1) Human Resources, 
-(2) Marketing, 
-(3) Sales, 
-(4) Operations, 
-(5) Public Relations, 
-(6) Production/Maintenance.
+Hiring and retaining top talent are extremely challenging task that requires capital time and skills. According to [link](), small business owners spend 40% of their working hours on tasks that do not generate any income, such us hiring. Moreover,    Imagine you have been hired as a Data Scientist to improve the human resources department using data science. 
 
 __Target Audience__:
 This repository is targeted to those who want to gain a fundamental understanding of data science and solve real-world business problems, including:
