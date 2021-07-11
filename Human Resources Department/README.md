@@ -7,7 +7,7 @@ Build machine learning models to predict employee retention that could save a co
 - Social Media: [LinkedIn](https://www.linkedin.com/in/diardanoraihan/), [Medium](https://diardano.medium.com/)
 
 ## Background and Business Problem
-Hiring and retaining top talent are extremely challenging task that requires capital time and skills. According to [Toggl Hire]()https://toggl.com/blog/cost-of-hiring-an-employee, small business owners spend 40% of their working hours on tasks that do not generate any income, such us hiring. Moreover, companies spend 15 - 20% of the employee's salary to recruit a new candidate, which is a massive amount, especially for large companies with thousand of employees. 
+Hiring and retaining top talent are extremely challenging task that requires capital time and skills. According to [Toggl Hire](https://toggl.com/blog/cost-of-hiring-an-employee), small business owners spend 40% of their working hours on tasks that do not generate any income, such us hiring. Moreover, companies spend 15 - 20% of the employee's salary to recruit a new candidate, which is a massive amount, especially for large companies with thousand of employees. 
 
 Imagine you have been hired as a Data Scientist to improve the human resources department using data science. The HR department has collected extensive data on their employees and approach you to develop a model that could predict which employees are more likely to quit. By developing accurate prediction models that could predict employee retention, you could potentially save the company hundreds of thousands of dollars. 
 
