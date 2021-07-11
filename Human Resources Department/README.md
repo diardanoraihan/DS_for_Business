@@ -1,5 +1,5 @@
 # Human Resource Retention
-__Personal Data Science for Business Capstone__
+__Personal Data Science Project: Human Resource Department Business Case__
 
 Build machine learning models to predict employee retention that could save a company hundreds of thousands of dollars.
 - Author: Diardano Raihan
