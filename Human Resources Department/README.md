@@ -6,6 +6,12 @@ Build machine learning models to predict employee retention that could save a co
 - Email: diardano@gmail.com
 - Social Media: [LinkedIn](https://www.linkedin.com/in/diardanoraihan/), [Medium](https://diardano.medium.com/)
 
+## Project Summary
+* Developed machine learning models to predict which employees are more likely to quit.
+* Visualized data with histogram, heatmap, boxplot, countplot, and Kernel Density Estimate using Seaborn and Matplotlib to gain insight of what makes employees want to leave or stay.
+* Engineered features using Pandas and Scikit-Learn (one-hot encoder, data normalization) to feed the data into machine learning models. 
+* Optimized logistic regression, random forest classifier, and artificial neural network to reach the best model for such an unbalanced dataset.
+
 ## Background and Business Problem
 Hiring and retaining top talent are extremely challenging task that requires capital time and skills. According to [Toggl Hire](https://toggl.com/blog/cost-of-hiring-an-employee), small business owners spend 40% of their working hours on tasks that do not generate any income, such us hiring. Moreover, companies spend 15 - 20% of the employee's salary to recruit a new candidate, which is a massive amount, especially for large companies with thousand of employees. 
 
@@ -32,5 +38,3 @@ The data contains many features corresponding to employee information, such as:
 - Work life balance.
 
 We can access the data from __Kaggle__ [here](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-
-
