@@ -15,8 +15,8 @@ Use Deep Learning to automate the process of detecting and classifying chest dis
 Deep learning has been proven to be superior in detecting and classifying disease using imagery data. Skin cancer could be detected more accurately by Deep Learning by dermatologists (2018).
 - Human dermatologists detection = 86.6%
 - Deep Learning detection = 95%
-_Rereference: "Computer learns to detect skin cancer more accurately than doctors". The Guardian, 29 May 2018._
 
+_Rereference: "Computer learns to detect skin cancer more accurately than doctors". The Guardian, 29 May 2018._
 
 In this case study, we will assume that you work as a __Deep Learning Consultant__. 
 - You have been hired by a hospital in downtown Toronto and you have been tasked to automate the process of detecting and classifying chest disease and reduce the cost and time of detection.
@@ -26,3 +26,9 @@ In this case study, we will assume that you work as a __Deep Learning Consultant
   - Covid-19
   - Bacterial Pneumonia
   - Viral Pneumonia
+
+## Datasets
+This is a custom dataset that contains covid-19 x-ray images, viral pneumonia x-ray images, bacterial pneumonia x-ray images, and normal person x-ray images. Each class contains 133 images.
+Source:
+- https://github.com/ieee8023/covid-chestxray-dataset
+- https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
