@@ -1,42 +1,28 @@
-# Data Science for Business: 6 Real-World Case Studies
-__Personal Data Science Capstone Projects__ (in progress)
+# Chest Diseases Diagnosis
+__Operations Department Business Case__ 
 
-Build AI, Machine Learning, and Deep Learning Models to solve real-world business problems in HR, Marketing, Sales, Operations, PR, and Production projects.
+Use Deep Learning to automate the process of detecting and classifying chest diseases in a hospital.
 - Author: Diardano Raihan
 - Email: diardano@gmail.com
 - Social Media: [LinkedIn](https://www.linkedin.com/in/diardanoraihan/), [Medium](https://diardano.medium.com/)
 
 ## Project Summary
-Data science is a science of extracting useful information from a large, structured or unstructured amount of data to help business (company) solve problems. The practice includes data collection, data cleaning, data analysis and visualization, and machine learning modeling. 
+- Built a deep learning model to classify 4-class X-ray chest images in Python and TensorFlow for detecting diseases in a hospital.
+- Modified and retrained a residual neural network (ResNet50) with a 96% accuracy on training data, 89% on validation, and 83% on the test set.
+- Converted the model into JSON format using TensorFlow.js to be deployed into a browser.
 
-In this project, we will learn how to leverage data science skills to maximize business revenue, reduce cost, and optimize businesses process. We will apply data science techniques to the following 6 departments:
-(1) Human Resources, 
-(2) Marketing, 
-(3) Sales, 
-(4) Operations, 
-(5) Public Relations, 
-(6) Production/Maintenance.
+## Case Study
+Deep learning has been proven to be superior in detecting and classifying disease using imagery data. Skin cancer could be detected more accurately by Deep Learning by dermatologists (2018).
+- Human dermatologists detection = 86.6%
+- Deep Learning detection = 95%
+_Rereference: "Computer learns to detect skin cancer more accurately than doctors". The Guardian, 29 May 2018._
 
-__Target Audience__:
-This repository is targeted to those who want to gain a fundamental understanding of data science and solve real-world business problems, including:
-- Data Science Consultants,
-- AI Practitioners,
-- Aspiring Data Scientist and Tech Enthusiasts.
 
-### Human Resource Department
-<<Project Description>>
-  
-### Marketing Department
-<<Project Description>>
-
-### Sales Department
-<<Project Description>>
-
-### Operations Department
-<<Project Description>>
-
-### Public Relations Department
-<<Project Description>>
-
-### Production/Manufacturing/Maintenance Department
-<<Project Description>>
+In this case study, we will assume that you work as a __Deep Learning Consultant__. 
+- You have been hired by a hospital in downtown Toronto and you have been tasked to automate the process of detecting and classifying chest disease and reduce the cost and time of detection.
+- The team has collected extensive X-Ray Chest data and they approached you to develop a model that could detect and classify the diseases in less than 1 minute.
+- You have been provided with 133 images that belong to 4 classes:
+  - Healthy
+  - Covid-19
+  - Bacterial Pneumonia
+  - Viral Pneumonia
