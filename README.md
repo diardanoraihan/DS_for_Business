@@ -13,7 +13,7 @@ In this project, I leverage my data science skills to maximize business revenue,
 - __Human Resources__: Build AI models to reduce employees hiring and training costs by predicting which employees might leave the company. See the project [here](https://github.com/diardanoraihan/DS_for_Business/tree/main/Human%20Resources%20Department).
 - __Marketing__: Optimize marketing strategy to launch a targeted campaign by performing customer segmentation. See the project [here](https://github.com/diardanoraihan/DS_for_Business/tree/main/Marketing%20Department).
 - __Sales__: Develop time series forecasting models to predict future product prices. See the project [here](https://github.com/diardanoraihan/DS_for_Business/tree/main/Sales%20Department).
-- __Operations__: _Coming soon_
+- __Operations__: Use Deep Learning to automate the process of detecting and classifying chest diseases in a hospital. See the project [here](https://github.com/diardanoraihan/DS_for_Business/tree/main/Operations%20Department)
 - __Public Relations__: _Coming soon_
 - __Production/Maintenance__: _Coming soon_
 
